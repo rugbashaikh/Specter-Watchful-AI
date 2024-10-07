@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/MF_YOLOv8/yolo_data/images/train 
+val: /content/drive/MyDrive/MF_YOLOv8/yolo_data/images/val 
+
+# Classes
+nc: 2  
+names: ['male', 'female']  

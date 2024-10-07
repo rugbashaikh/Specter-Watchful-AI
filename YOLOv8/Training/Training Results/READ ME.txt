@@ -1,0 +1,9 @@
+memories		25 epochs training
+
+memories2		50 epochs training
+
+memories3		100 epochs training
+
+memories4		200 epochs training
+
+In our project, we have implemented 200 epochs training.
